@@ -47,7 +47,7 @@ Incluye manejo de excepciones y cierre adecuado de recursos.
 
 La clase `Prestamo` representa la estructura del usuario:
 
-- Atributos del usuario  
+- Atributos del prestamo  
 - Constructores para:
   - Buscar / eliminar (solo ID)
   - Crear (datos)
