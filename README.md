@@ -15,7 +15,7 @@ Este proyecto implementa un sistema básico de **gestión de préstamos** utiliz
 ```
 /src
  ├── dominio/
- │     └── Prestmao.java
+ │     └── Prestamo.java
  │
  ├── datos/
  │     ├── IPrestamoDAO.java
